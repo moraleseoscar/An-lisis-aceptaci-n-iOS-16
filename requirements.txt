@@ -1,0 +1,5 @@
+tweepy
+configparser
+credentials
+wordcloud==1.8.2.2
+vaderSentiment==3.3.2
